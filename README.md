@@ -3,6 +3,7 @@
 ## Project description
 
 This study presents a method for rapid screening of ionic liquids(ILs) using Graph Neural Networks (GNNs). Approximately 40,000 experimental data points, including CO2 solubility, viscosity, melting point, and toxicity, were collected to train GNN regression models and XGBoost classification models. Various strategies for constructing molecular graphs based on IL structures were analyzed, and multiple GNN models were compared. A database of IL structures containing 200,000 data points was built, and screening threshold criteria were established. Through this process, ideal IL-based CO2 absorbents with low viscosity, non-toxicity, and liquid state at room temperature were identified.
+The feature extraction for the GNN was based on the work of Hernández Morales et al. (Morales, G. H.; Medina, E. I. S.; Jiménez-Gutiérrez, A.; Zavala, V. M. J. C.; Engineering, C. Graph neural networks for CO2 solubility predictions in Deep Eutectic Solvents. 2024, 108750.)
 
 ## HOW TO
 
